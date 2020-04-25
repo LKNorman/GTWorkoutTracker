@@ -1,1 +1,1 @@
-This is an app using mongodb that allows users to track their daily workouts and see their progress over time.
+This is an app using mongodb that allows users to track their daily workouts and see their progress over time. Deployed on heroku: https://arcane-anchorage-27654.herokuapp.com/?id=5ea49131b93e0d0017875af5
